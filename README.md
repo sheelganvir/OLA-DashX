@@ -9,6 +9,9 @@
 **OLA-DashX** is a complete data analytics case study that simulates a ride-booking platform similar to OLA. This project leverages SQL for data extraction and Power BI for data visualization. The objective is to gain insights into booking patterns, cancellations, ratings, revenue, and customer behavior.
 
 ---
+Here is the link to the interactive dashboard : https://app.powerbi.com/links/zR00UdqzfD?ctid=75470a9d-0e26-46e8-a2a5-88123ffd59ae&pbi_source=linkShare&bookmarkGuid=a1cb5f4c-907f-41a6-83f4-8fa81802b209
+
+---
 
 ## 💾 Tech Stack
 
