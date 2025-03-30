@@ -105,3 +105,17 @@ OLA-DashX/
 │   └── OLA-Project-Documentation.pdf
 │
 └── README.md
+```
+---
+
+## 💡 Author
+
+Made with 💙 by Sheel Ganvir
+
+📬 sheelganvir2805@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/sheel-ganvir/)
+
+---
+
+## ⭐ If you found this project helpful, feel free to star the repo and share it!
+
