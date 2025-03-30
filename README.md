@@ -1,15 +1,13 @@
-# OLA-DashX 📊
-
-**A Data Analyst Project by Sheel Ganvir**
-
----
-
-## 📌 Project Overview
+# OLA-DashX 🚖📊
 
 **OLA-DashX** is a complete data analytics case study that simulates a ride-booking platform similar to OLA. This project leverages SQL for data extraction and Power BI for data visualization. The objective is to gain insights into booking patterns, cancellations, ratings, revenue, and customer behavior.
 
 ---
-Here is the link to the interactive dashboard : https://app.powerbi.com/links/zR00UdqzfD?ctid=75470a9d-0e26-46e8-a2a5-88123ffd59ae&pbi_source=linkShare&bookmarkGuid=a1cb5f4c-907f-41a6-83f4-8fa81802b209
+Here is the link to the interactive dashboard : [live](https://app.powerbi.com/links/zR00UdqzfD?ctid=75470a9d-0e26-46e8-a2a5-88123ffd59ae&pbi_source=linkShare&bookmarkGuid=a1cb5f4c-907f-41a6-83f4-8fa81802b209)
+
+---
+
+![image](https://github.com/user-attachments/assets/df227341-8d43-477f-9eda-ddee602d179d)
 
 ---
 
@@ -72,8 +70,20 @@ This project answers various business questions using SQL and visualizes them us
 ---
 
 ## 📷 Power BI Dashboard Preview
-
+- Overall Page
 ![image](https://github.com/user-attachments/assets/df227341-8d43-477f-9eda-ddee602d179d)
+
+- Vehicle Type
+![image](https://github.com/sheelganvir/OLA-DashX/blob/main/pg2-vehicle-type.png)
+
+- Revenue
+![image](https://github.com/sheelganvir/OLA-DashX/blob/main/pg3-revenue.png)
+
+- Cancellation
+![image](https://github.com/sheelganvir/OLA-DashX/blob/main/pg4-cancellation.png)
+
+- Ratings
+![image](https://github.com/sheelganvir/OLA-DashX/blob/main/pg5-ratings.png)
 
 ---
 
